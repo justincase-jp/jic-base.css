@@ -1,0 +1,31 @@
+{
+  "name": "jic-base.css",
+  "version": "1.0.0",
+  "description": "basic styles for justInCase production.",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/justincase-jp/jic-base.git"
+  },
+  "author": "justInCase Technologies",
+  "main": "base.css",
+  "style": "base.css",
+  "files": [
+    "base.css"
+  ],
+  "scripts": {
+    "lint": "stylelint '*.css'"
+  },
+  "engines": {
+    "node": "12.x",
+    "npm": "use yarn",
+    "yarn": "2.x"
+  },
+  "devDependencies": {
+    "stylelint": "^13.8.0",
+    "stylelint-config-prettier": "^8.0.2",
+    "stylelint-config-recess-order": "^2.3.0",
+    "stylelint-config-standard": "^20.0.0",
+    "stylelint-scss": "^3.18.0"
+  }
+}
