@@ -17,9 +17,9 @@
     "lint": "stylelint '*.css'"
   },
   "engines": {
-    "node": "12.x",
+    "node": "14.x",
     "npm": "use yarn",
-    "yarn": "2.x"
+    "yarn": "1.x"
   },
   "devDependencies": {
     "stylelint": "^13.8.0",
