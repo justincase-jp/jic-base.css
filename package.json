@@ -1,6 +1,6 @@
 {
   "name": "jic-base.css",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "basic styles for justInCase production.",
   "private": true,
   "repository": {
@@ -17,7 +17,7 @@
     "lint": "stylelint '*.css'"
   },
   "engines": {
-    "node": "14.x",
+    "node": "16.x",
     "npm": "use yarn",
     "yarn": "1.x"
   },
