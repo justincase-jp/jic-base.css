@@ -3,6 +3,7 @@
   "version": "1.0.3",
   "description": "basic styles for justInCase production.",
   "private": true,
+  "type": "commonjs",
   "repository": {
     "type": "git",
     "url": "https://github.com/justincase-jp/jic-base.css.git"
@@ -23,9 +24,8 @@
   },
   "devDependencies": {
     "stylelint": "^15.10.1",
-    "stylelint-config-prettier": "^8.0.2",
-    "stylelint-config-recess-order": "^2.3.0",
-    "stylelint-config-standard": "^20.0.0",
-    "stylelint-scss": "^3.18.0"
+    "stylelint-config-recess-order": "^4.3.0",
+    "stylelint-config-standard": "^30.0.1",
+    "stylelint-scss": "^6.3.0"
   }
 }
