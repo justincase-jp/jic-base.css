@@ -11,7 +11,7 @@ main, article, aside, details, figcaption, figure, footer, header, hgroup, menu,
 }
 body {
   overflow-x: hidden;
-  font-family: -apple-system, Hiragino Sans, 'ヒラギノ角ゴ ProN W3', Hiragino Kaku Gothic ProN, 'Yu Gothic', YuGothic, Verdana, Meiryo, 'M+ 1p', sans-serif;
+  font-family: -apple-system, 'Hiragino Sans', 'ヒラギノ角ゴ ProN W3', 'Hiragino Kaku Gothic ProN', 'Yu Gothic', YuGothic, Verdana, Meiryo, 'M+ 1p', sans-serif;
   font-size: 1rem;
   -webkit-font-smoothing: antialiased;
   line-height: 1;
